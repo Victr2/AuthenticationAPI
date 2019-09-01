@@ -1,2 +1,2 @@
 # AuthenticationAPI
-Sample application for AgleHub course.
+Sample application for AgileHub course.
